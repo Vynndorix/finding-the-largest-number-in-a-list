@@ -1,0 +1,8 @@
+[package]
+name = "rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.8.5"
+randchacha= "fucking something idk Im copying shit from my one github account to the other lol I had to create this file because I forgot to last time"
